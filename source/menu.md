@@ -1,4 +1,4 @@
-* [**Home**](/en)
+* [**Home**](/)
 
 # **Courses and Activities**
 
@@ -11,6 +11,5 @@
 
 # **Referrals**
 
-* [The Learn-Sys Project](https://learn-sys.github.io)
 * [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 * [OSSU](https://github.com/ossu/computer-science)

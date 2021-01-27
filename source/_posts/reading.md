@@ -19,7 +19,7 @@ We propose a reading group on the purpose of advanced systems education. In this
 * The reading group only has 40 slots. If more than 40 people are qualified, they should be splitted into multiple groups.
 
 ## Paper List and Schedule
-### W0：Icebreaking
+### W0: Icebreaking
 
 * Introduce yourself, find a teammate, and have fun.
 
